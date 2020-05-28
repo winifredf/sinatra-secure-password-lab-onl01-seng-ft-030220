@@ -88,6 +88,6 @@ describe 'App' do
   #     @user = User.create(:username => "test123", :password => "test")
   #     expect(@user.authenticate("test")).to be_truthy
   #   end
-  end
+  # end
 
 end
