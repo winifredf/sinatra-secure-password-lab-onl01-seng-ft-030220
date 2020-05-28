@@ -74,7 +74,7 @@ describe 'App' do
   #     expect(page.status_code).to eq(200)
   #     expect(page.body).to include("We are currently working on your account.")
   #   end
-  # end
+  end
 
   describe "GET '/logout'" do
     it "clears the session" do
